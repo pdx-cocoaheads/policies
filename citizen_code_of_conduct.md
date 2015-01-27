@@ -105,8 +105,8 @@ to community business.
 
 ## 9.‎ ‏Contact info
 
-Ryan Arana - ryan [dot] arana [at] gmail [dot] com
-Julio Barros - Julio [at] E-String [dot] com
+ * Ryan Arana - ryan [dot] arana [at] gmail [dot] com
+ * Julio Barros - Julio [at] E-String [dot] com
 
 ## 10.‎ ‏License and attribution
 
