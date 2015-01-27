@@ -2,8 +2,8 @@
 
 ## 1. Purpose
 
-A primary goal of COMMUNITY_NAME is to be inclusive to
-the largest number of contributors, with the most varied
+A primary goal of PDX-iOS is to be inclusive to
+the largest number of iOS developers, with the most varied
 and diverse backgrounds possible. As such, we are committed
 to providing a friendly, safe and welcoming environment for
 all, regardless of gender, sexual orientation, ability,
@@ -14,7 +14,7 @@ This code of conduct outlines our expectations for all
 those who participate in our community, as well as the
 consequences for unacceptable behavior.
 
-We invite all those who participate in COMMUNITY_NAME to
+We invite all those who participate in PDX-iOS to
 help us create safe and positive experiences for everyone.
 
 ## 2.‎ ‏Open [Source/Culture/Tech] Citizenship
@@ -77,7 +77,8 @@ without refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or
 have any other concerns, please notify a community organizer
-as soon as possible. [CONTACT_INFO_HERE]
+as soon as possible. File an issue on this repo, or send an email to
+Ryan and/or Julio.
 
 Additionally, community organizers are available to help
 community members engage with local law enforcement or to
@@ -90,15 +91,9 @@ distress.
 
 If you feel you have been falsely or unfairly accused of
 violating this Code of Conduct, you should notify
-GOVERNING_BODY with a concise description of your grievance.
+Ryan and/or Julio with a concise description of your grievance.
 Your grievance will be handled in accordance with our
-existing governing policies. [LINK_TO_POLICY]
-
-[NOTE:‎ ‏Every organization's governing policies should dictate
-how you handle warnings and expulsions of community members.
-It is strongly recommended that you mention those policies
-here or in Section 7 and that you include a mechanism
-for addressing grievances.]
+existing governing policies.
 
 ## 8.‎ ‏Scope
 
@@ -110,9 +105,8 @@ to community business.
 
 ## 9.‎ ‏Contact info
 
-‎[‏YOUR CONTACT INFO HERE -- this should be a single
-person or a small team who can respond to issues
-directly]
+Ryan Arana - ryan [dot] arana [at] gmail [dot] com
+Julio Barros - Julio [at] E-String [dot] com
 
 ## 10.‎ ‏License and attribution
 
@@ -121,3 +115,5 @@ Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-s
 
 _Revision 2.0, adopted by the [Stumptown
 Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+
+Modified for use by PDX-iOS in January 2015
