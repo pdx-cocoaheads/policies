@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of PDX-iOS is to be inclusive to
+A primary goal of PDX-Cocoaheads is to be inclusive to
 the largest number of iOS developers, with the most varied
 and diverse backgrounds possible. As such, we are committed
 to providing a friendly, safe and welcoming environment for
@@ -78,7 +78,7 @@ without refund in the case of a paid event).
 If you are subject to or witness unacceptable behavior, or
 have any other concerns, please notify a community organizer
 as soon as possible. File an issue on this repo, or send an email to
-Ryan and/or Julio.
+[Ryan](mailto:ryan.arana@gmail.com), [Jeff](mailto:jeff@jeffboek.com), or [Marc](marc@mbcharbonneau.com).
 
 Additionally, community organizers are available to help
 community members engage with local law enforcement or to
@@ -106,7 +106,8 @@ to community business.
 ## 9.‎ ‏Contact info
 
  * Ryan Arana - ryan [dot] arana [at] gmail [dot] com
- * Julio Barros - Julio [at] E-String [dot] com
+ * Jeff Boek - jeff [at] jeffboek [dot] com
+ * Marc Charbonneau - marc [at] mbcharbonneau [dot] com
 
 ## 10.‎ ‏License and attribution
 
@@ -116,4 +117,4 @@ Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-s
 _Revision 2.0, adopted by the [Stumptown
 Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
 
-Modified for use by PDX-iOS in January 2015
+Modified for use by PDX-Cocoaheads in July 2016
