@@ -14,7 +14,7 @@ This code of conduct outlines our expectations for all
 those who participate in our community, as well as the
 consequences for unacceptable behavior.
 
-We invite all those who participate in PDX-iOS to
+We invite all those who participate in PDX CocoaHeads to
 help us create safe and positive experiences for everyone.
 
 ## 2.‎ ‏Open [Source/Culture/Tech] Citizenship
